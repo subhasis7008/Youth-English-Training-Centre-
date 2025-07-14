@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Youth English Training Centre</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #0066cc;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #004080;
+    }
+    footer {
+      text-align: center;
+      background: #004080;
+      color: white;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Youth English Training Centre</h1>
+    <p>Empowering the youth with fluent English communication</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#courses">Courses</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to Youth English Training Centre. We are dedicated to helping students and professionals improve their English speaking, writing, and comprehension skills. Our trainers focus on personalized attention and practical learning.</p>
+  </section>
+
+  <section id="courses">
+    <h2>Our Courses</h2>
+    <ul>
+      <li>Spoken English for Beginners</li>
+      <li>Advanced Communication Skills</li>
+      <li>English for Competitive Exams</li>
+      <li>Grammar and Vocabulary Building</li>
+      <li>Interview & Personality Development</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@youthenglishcentre.com</p>
+    <p>Phone: +91 98765 43210</p>
+    <p>Address: 123, Main Road, Your City, India</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Youth English Training Centre. All rights reserved.
+  </footer>
+
+</body>
+</html>
